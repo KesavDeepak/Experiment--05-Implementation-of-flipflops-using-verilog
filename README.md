@@ -1,4 +1,4 @@
-# Experiment--05-Implementation-of-flipflops-using-verilog
+![793309ed-40b2-427c-861c-3fe7f347e371](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/54833574-fb72-4921-bae7-2b2a356591f8)# Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -102,16 +102,48 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+#### Step 1: 
+Prepare 470 Ohm Resistors. For this step you need 2 470 ohm resistors....
 
+#### Step 2: 
+Mount the 10K Resistors.
+
+#### Step 3: 
+Mount the First Transistor.
+
+#### Step 4: 
+Mount the Second Transistor....
+
+#### Step 5: 
+Mount the LED Lights.
+
+#### Step 6: 
+Mount the Capacitors...
+
+#### Step 7: 
+Mount the Power Supply.....
+
+#### Step 8: 
+Ready.
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+### Developed by: KESAV DEEPAK SRIDHARAN
+### RegisterNumber: 23002011
 */
+## T FLIP FLOP
+![793309ed-40b2-427c-861c-3fe7f347e371](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/3d397b78-4063-4fd5-bd54-0d47176f37a5)
+
+## D FLIP FLOP
+![f758954c-6065-48f9-bff0-b5ebbc63bbd4](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/1a6c484a-af3e-418f-87fe-8f601c255717)
+
+## JK FLIP FLOP
+![02a93915-f2bb-4daf-943b-1624ba0a994d](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/1609beb7-1b78-4812-aa45-bd002e7f1a70)
+
+## SR FLIP FLOP
+![36100716-4e40-457d-b884-cb0967b0d013](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/94d6cf10-751a-44e9-9058-5b142f9d3f95)
 
 
 
@@ -119,7 +151,13 @@ RegisterNumber:
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
+## SR FLIP FLOP
 
+## JK FLIP FLOP
+
+## D FLIP FLOP
+
+## T FLIP FLOP
 
 
 
