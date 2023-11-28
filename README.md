@@ -1,4 +1,4 @@
-![793309ed-40b2-427c-861c-3fe7f347e371](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/54833574-fb72-4921-bae7-2b2a356591f8)# Experiment--05-Implementation-of-flipflops-using-verilog
+# Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -152,21 +152,36 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ## SR FLIP FLOP
+![d5ed1847-d850-4cc1-a537-adb1864502fa](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/470c2653-69e7-4928-88b5-6a0daca9314a)
 
 ## JK FLIP FLOP
+![9cc936fd-ff27-424d-bfd8-a7a08c77ae0e](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/4978ddee-2dee-46c1-aa8d-883332d8f74a)
 
 ## D FLIP FLOP
+![cd656416-e2dd-4b28-bea8-e303c5d88952](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/571abd5f-452d-44ab-8b8b-f27d29f62abd)
 
 ## T FLIP FLOP
+![299861c0-49a4-46e5-9efd-89c184dcaeb5](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/6f6f2597-5bb9-4666-9eba-9c4905171f77)
 
 
 
 
 
 
-
+### OUTPUT:
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+## SR FLIP FLOPS
+![d96cba7b-a857-41e1-bf37-8ecb5d9d8f4c](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/95e6d0cc-ac98-46d2-b97a-62cde29d003b)
+
+## JK FLIP FLOP
+![1b5bbe89-68e4-467e-a329-69a8854be8a5](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/89b68bfc-cd17-4d85-b08d-6a370d768b22)
+
+## D FLIP FLOP
+![f23d85a0-fe69-459a-9e5f-bf35a8e2594f](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/4bece53e-b0bf-41ce-9b3b-73ca0eb726b7)
+
+## T FLIP FLOP
+![283bbbca-c55d-4ec4-be90-134115c38c62](https://github.com/KesavDeepak/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139336019/709e55ab-50f1-4028-abcc-1c8ac90ac532)
 
 
 
@@ -176,3 +191,4 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 
 
 ### RESULTS 
+Implementation of flip flops using verilog successfully completed.
